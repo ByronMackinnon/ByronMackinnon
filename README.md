@@ -17,4 +17,4 @@ My name is Byron. I'm a Canadian hobbyist looking to start a path in data scienc
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=byronmackinnon&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byronmackinnon&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=byronmackinnon.byronmackinnon)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=byronmackinnon)
