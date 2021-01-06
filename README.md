@@ -2,7 +2,7 @@
 
 My name is Byron. I'm a Canadian hobbyist looking to start a path in data science. Mostly just creating discord bots in my spare time.
 
-[![Linkedin Badge](https://img.shields.io/badge/-byronjmackinnon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byronjmackinnon/)](https://www.linkedin.com/in/byronjmackinnon/)
+[![Linkedin Badge](https://img.shields.io/badge/-Byron Mackinnon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byronmackinnon)](https://www.linkedin.com/in/byronmackinnon)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/)
 
 ## ⚡ Technologies
