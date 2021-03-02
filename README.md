@@ -14,7 +14,14 @@ My name is Byron. I'm a Canadian hobbyist looking to start a path in data scienc
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<div class=badges align=left>
+<div class=stats>
+    <img
+     alt=stats1
+     style="object-fit: none; object-position: 0 -50px;"
+     src=https://github-readme-stats.vercel.app/api?username=ByronMackinnon&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
+</div>
+
+<div class=badges>
     <a href=https://github.com/ByronMackinnon>
       <img
        alt=profile_views
@@ -36,12 +43,4 @@ My name is Byron. I'm a Canadian hobbyist looking to start a path in data scienc
        style="margin-right: 20px; margin-bottom: -10px"
        src=https://img.shields.io/twitter/follow/BManIRL?style=social&label=Twitter&logo=twitter&color=lightgray>
     </a>
-</div>
-
-<div class=stats>
-    <img
-     alt=stats1
-     align=right
-     style="object-fit: none; object-position: 0 -50px;"
-     src=https://github-readme-stats.vercel.app/api?username=ByronMackinnon&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
 </div>
